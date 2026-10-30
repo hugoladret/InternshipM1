@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: If you use this software, please cite the accompanying publication (preferred-citation below).
+type: software
+title: Selectivity to oriented patterns of different precisions
+authors:
+- family-names: Ladret
+  given-names: Hugo
+- family-names: Perrinet
+  given-names: Laurent U
+  orcid: https://orcid.org/0000-0002-9536-010X
+repository-code: https://github.com/hugoladret/InternshipM1
+url: https://laurentperrinet.github.io/publication/ladret-18-gdr/
+license: GPL-3.0
+keywords:
+- primary-visual-cortex
+- spiking-neural-networks
+preferred-citation:
+  type: conference-paper
+  title: Selectivity to oriented patterns of different precisions
+  authors:
+  - family-names: Ladret
+    given-names: Hugo
+  - family-names: Perrinet
+    given-names: Laurent U
+    orcid: https://orcid.org/0000-0002-9536-010X
+  conference:
+    name: GDR Vision, Paris, 2018
+  year: 2018
+  url: https://laurentperrinet.github.io/publication/ladret-18-gdr/
